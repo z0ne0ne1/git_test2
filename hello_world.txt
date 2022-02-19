@@ -1,0 +1,5 @@
+I am reading the book "Code" by Charles Petzold.
+The chapter about the abritrariness of our decimal system was especially interesting.
+In an octal (base eight) system, the numbers would be: 0, 1, 2, 3, 4, 5, 6, 7, 10, 11, 12...
+10 base eight represents our base ten understanding of 8. 11 base eight is 9 base ten, etc.
+You can think of it like the ones place, eights place, sixty-fours place, just like our ones/tens/hundreds place in decimal.
